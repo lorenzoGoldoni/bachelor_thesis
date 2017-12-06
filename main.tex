@@ -1,0 +1,50 @@
+\documentclass{tesi}
+
+
+
+\title{Virtualized meeting room: realtà virtuale per smart working e formazione}
+\author{Lorenzo Goldoni}
+\matricola{456802}
+\relatore{Prof. Maurizio Patrignani}
+\correlatore{Raphaël Bussa}
+\annoAccademico{2016/2017}
+
+\dedica{} % solo se nel documento si usa il comando \generaDedica
+% --- FINE dati relativi al template TesiDiaUniroma3
+
+% --- INIZIO richiamo di pacchetti di utilità. Questi sono un esempio e non sono strettamente necessari al modello per la tesi.
+\usepackage[plainpages=false]{hyperref}	% generazione di collegamenti ipertestuali su indice e riferimenti
+\usepackage[all]{hypcap} % per far si che i link ipertestuali alle immagini puntino all'inizio delle stesse e non alla didascalia sottostante
+\usepackage{amsthm}	% per definizioni e teoremi
+\usepackage{amsmath}
+\usepackage{float}
+\usepackage{wrapfig}
+
+\begin{document}
+	
+\frontmatter
+\generaFrontespizio
+\generaDedica
+\ringraziamenti{Ringraziamenti}	% inserisce i ringraziamenti e li prende in questo caso da ringraziamenti.tex
+\generaIndice
+%\generaIndiceFigure
+\introduzione{Introduzione}		% inserisce l'introduzione e la prende in questo caso da introduzione.tex
+
+% ----- Pagine di tesi, numerate in arabo (1,2,3,4,...) (obbligatorio)
+\mainmatter
+% il comando ``capitolo'' ha come parametri:
+% 1) il titolo del capitolo
+% 2) il nome del file tex (senza estensione) che contiene il capitolo. Tale nome \`e usato anche come label del capitolo
+\capitolo{Realtà virtuale e smart working}{capitolo1}
+\capitolo{Ambienti formativi e di lavoro virtualizzati}{capitolo2}
+\capitolo{Requisiti del progetto}{capitolo3}
+\capitolo{Tecnologie adottate}{capitolo4}
+\capitolo{Analisi del progettoi}{capitolo5}
+% ----- Parte finale della tesi (obbligatorio)
+\backmatter
+\conclusioni{conclusioni}
+
+% Bibliografia con BibTeX (obbligatoria)
+% Non si deve specificare lo stile della bibliografia
+\bibliography{bibliografia} % inserisce la bibliografia e la prende in questo caso da bibliografia.bib
+\end{document}

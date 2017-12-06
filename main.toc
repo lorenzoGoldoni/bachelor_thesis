@@ -1,0 +1,28 @@
+\select@language {english}
+\contentsline {chapter}{Contents}{iv}{section*.2}
+\contentsline {chapter}{Introduzione}{vi}{chapter*.3}
+\contentsline {chapter}{\chapternumberline {1}Realt\IeC {\`a} virtuale e smart working}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Cos'\IeC {\`e} la realt\IeC {\`a} virtuale?}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Definizione della realt\IeC {\`a} virtuale}{1}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Lo stato dell'arte}{2}{subsection.1.1.2}
+\contentsline {subsubsection}{\numberline {1.1.2.1}Applicazioni }{3}{subsubsection.1.1.2.1}
+\contentsline {subsubsection}{\numberline {1.1.2.2}Hardware e dispositivi}{4}{subsubsection.1.1.2.2}
+\contentsline {section}{\numberline {1.2}Cos'\IeC {\`e} lo smart working?}{5}{section.1.2}
+\contentsline {chapter}{\chapternumberline {2}Ambienti formativi e di lavoro virtualizzati}{6}{chapter.2}
+\contentsline {section}{\numberline {2.1}I vantaggi del processo di virtualizzazione}{6}{section.2.1}
+\contentsline {section}{\numberline {2.2}Limiti tecnici}{6}{section.2.2}
+\contentsline {section}{\numberline {2.3}Una sala riunioni in realt\IeC {\`a} virtuale}{6}{section.2.3}
+\contentsline {chapter}{\chapternumberline {3}Requisiti del progetto}{7}{chapter.3}
+\contentsline {section}{\numberline {3.1}Principali funzionalit\IeC {\`a} e casi d'uso}{7}{section.3.1}
+\contentsline {section}{\numberline {3.2}Gestione sicura dei dati}{7}{section.3.2}
+\contentsline {section}{\numberline {3.3}Esperienza d'uso}{7}{section.3.3}
+\contentsline {chapter}{\chapternumberline {4}Tecnologie adottate}{8}{chapter.4}
+\contentsline {section}{\numberline {4.1}Unity3D}{8}{section.4.1}
+\contentsline {section}{\numberline {4.2}Samsung GearVR}{8}{section.4.2}
+\contentsline {section}{\numberline {4.3}Samsung Vox}{8}{section.4.3}
+\contentsline {chapter}{\chapternumberline {5}Analisi del progettoi}{9}{chapter.5}
+\contentsline {section}{\numberline {5.1}Ambientazione grafica}{9}{section.5.1}
+\contentsline {section}{\numberline {5.2}Interfaccia grafica}{9}{section.5.2}
+\contentsline {section}{\numberline {5.3}Architettura software}{9}{section.5.3}
+\contentsline {chapter}{Conclusioni e sviluppi futuri}{10}{chapter*.4}
+\contentsline {chapter}{Bibliography}{11}{section*.6}
