@@ -1,8 +1,19 @@
-This is BibTeX, Version 0.99d (TeX Live 2017)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: main.aux
+This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
 The style file: alpha.bst
 Database file #1: bibliografia.bib
+I was expecting a `,' or a `}'---line 25 of file bibliografia.bib
+ :  
+ :  url = "\url{http://www.tsu.ox.ac.uk/pubs/1024-banister-etal.pdf}",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Unbalanced braces---line 35 of file bibliografia.bib
+ :  url = "\urlhttp://cseweb.ucsd.edu/~ravir/6160/papers/p31-levoy.pdf
+ :                                                                    }",
+I'm skipping whatever remains of this entry
+Repeated entry---line 38 of file bibliografia.bib
+ : @misc{ VRApplications
+ :                      ,
+I'm skipping whatever remains of this entry
 Warning--to sort, need author or key in VRApplications
 Name 1 in "the Vestibular Disorders Association, with contributions by Mary Ann Watson, MA, and F. Owen Black, MD, FACS, and Matthew Crowson, MD" has a comma at the end for entry vestibular
 while executing---line 1185 of file alpha.bst
@@ -12,49 +23,91 @@ Name 1 in "the Vestibular Disorders Association, with contributions by Mary Ann 
 while executing---line 1185 of file alpha.bst
 Name 2 in "the Vestibular Disorders Association, with contributions by Mary Ann Watson, MA, and F. Owen Black, MD, FACS, and Matthew Crowson, MD" has a comma at the end for entry vestibular
 while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1185 of file alpha.bst
+Warning--empty journal in POL
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1250 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1250 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1250 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1250 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1250 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1250 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1250 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1250 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1250 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1250 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1250 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1250 of file alpha.bst
+Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
+while executing---line 1250 of file alpha.bst
+Warning--empty journal in MFP
+Warning--empty year in MFP
 Name 1 in "the Vestibular Disorders Association, with contributions by Mary Ann Watson, MA, and F. Owen Black, MD, FACS, and Matthew Crowson, MD" has a comma at the end for entry vestibular
 while executing---line 1250 of file alpha.bst
 Name 2 in "the Vestibular Disorders Association, with contributions by Mary Ann Watson, MA, and F. Owen Black, MD, FACS, and Matthew Crowson, MD" has a comma at the end for entry vestibular
 while executing---line 1250 of file alpha.bst
-You've used 3 entries,
-            2543 wiz_defined-function locations,
-            569 strings with 4712 characters,
-and the built_in function-call counts, 873 in all, are:
-= -- 75
-> -- 34
-< -- 1
-+ -- 12
-- -- 11
-* -- 48
-:= -- 137
-add.period$ -- 6
-call.type$ -- 3
-change.case$ -- 16
-chr.to.int$ -- 3
-cite$ -- 5
-duplicate$ -- 38
-empty$ -- 84
-format.name$ -- 14
-if$ -- 182
-int.to.chr$ -- 1
-int.to.str$ -- 0
-missing$ -- 1
-newline$ -- 15
-num.names$ -- 6
-pop$ -- 31
-preamble$ -- 1
-purify$ -- 19
-quote$ -- 0
-skip$ -- 36
-stack$ -- 0
-substring$ -- 23
-swap$ -- 4
-text.length$ -- 1
-text.prefix$ -- 1
-top$ -- 0
-type$ -- 24
-warning$ -- 1
-while$ -- 5
-width$ -- 5
-write$ -- 30
-(There were 6 error messages)
+Warning--empty journal in LFD
+Warning--empty year in LFD
+(There were 48 error messages)

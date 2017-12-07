@@ -1,9 +1,24 @@
 \begin{thebibliography}{tVDAFOBMC}
 
+\bibitem[DBML07]{POL}
+Carey~Newson David~Banister and University of~Oxford Matthew~Ledbury, Transport
+  Studies~Unit.
+\newblock The cost of transport on the environment - the role of teleworking in
+  reducing carbon emission.
+\newblock 2007.
+
 \bibitem[LaV17]{VRbook}
 Steve~M. LaValle.
 \newblock Virtual reality.
 \newblock In {\em Virtual Reality}, 2017.
+
+\bibitem[SJW]{MFP}
+Ahna R. Girshick Martin S. Banks School of Psychology University of Wales
+  Bangor LL57 2AS United Kingdom; Microsoft Research: Asia Beijing Sigma Center
+  No. 49 Zhichun Road Beijing China 100080; School of Optometry 360 Minor Hall
+  University of California Berkeley CA USA~94720 Simon J.~Watt, Kurt~Akeley.
+\newblock Achieving near-correct focus cues in a 3-d display using multiple
+  image planes.
 
 \bibitem[tVDAFOBMC]{vestibular}
 MA~the Vestibular Disorders~Association, with contributions by Mary Ann~Watson,
@@ -12,5 +27,10 @@ MA~the Vestibular Disorders~Association, with contributions by Mary Ann~Watson,
 
 \bibitem[VRA]{VRApplications}
 Applications of virtual reality.
+
+\bibitem[yPH]{LFD}
+Marc~Levo y and Stanford~University Pat~Hanrahan, Computer Science~Department.
+\newblock Achieving near-correct focus cues in a 3-d display using multiple
+  image planes.
 
 \end{thebibliography}
