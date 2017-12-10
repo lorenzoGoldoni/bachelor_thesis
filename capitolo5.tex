@@ -1,5 +1,33 @@
-% !TeX spellcheck = <none>
+% !TeX spellcheck = it_IT
+Questo capitolo tratta il passo successivo, ovvero la progettazione dell'applicativo facendo riferimento al caso d'uso descritto.
 
-\section{Ambientazione grafica}
+\section{Ambientazione Grafica}
+Particolare attenzione è stata riposta nella progettazione dell'ambientazione 3D e nella scelta dei modelli. Questa parte infatti non solo è ciò che l'utente vede, come può essere la grafica di un'applicazione 2D, ma vienendo immerso in questo ambiente, ne aumenta l'importanza e amplificando i feedback dell'utente. Ho infatti progettato insieme al collega addetto alla modellazione 3D l'ambiente utilizzando un approccio molto simile a quello impiegato nello studio di design d'interni.\\
+
+Siamo partiti da delle immagini di riferimento rappresentanti sale riunioni moderne, senza particolari troppo caratteristici, mantenendo uno stile neutro e impersonale, soprattutto nella scelta dei colori e della mobilia virtuale.\\
+
+Durante lo sviluppo di applicazioni per il Gear VR è fondamentale tenere in considerazione che il prodotto la limitata potenza di calcolo dei cellulari compatibili, in buona parte già impegnata nel gestire la simulazione virtuale. Come dispositivo per i test infatti è stato utilizzato il cellulare meno potente in termini di processore, ovvero il Samsung S6. Per evitare effetti sgradevoli su questi dispositivi è necessario ottimizzare al meglio l'applicazione e soprattutto i modelli 3D.\\
+Per prima cosa bisogna eliminare ogni faccia geometrica dai modelli che non verrà mai visualizzata, poiché non vogliamo sprecare risorse renderizzando qualcosa che non verrà mai visto. Anche i modelli devo contenere il numero minimo di poligoni (\textit{low poly}) e di dettagli semplificando al massimo le mesh. Nel caso del nostro progetto la sfida risiedeva nell'ottenere un'ambientazione che nonostante fosse low poly, avesse uno stile realistico e formale, in contrasto con lo stile cartoonesco dei modelli 3D con pochi poligoni. Questo è stato possibile attraverso l'aggiunta dei dettagli, anziché sui modelli, sulle texture, utilizzando normal e bump maps di alta qualità e tramite la creazione di atlas che unificassero queste ultime riducendo i loro tempi di carico e scarico della sulla memoria. \\
+Un'altro effetto che ho ottimizzato nella creazione della scena è l'\textit{overdraw}, ovvero quando oggetti sono renderizzati di fronte ad altri, sprecando le risorse della GPU. Per evitare che ciò accada tutte i modelli che non subiranno trasformazioni devono essere settati come \textit{static}, in particolare \textit{occluder static} e \textit{occludee static} in modo da poter generare dall'apposito pannello una mappa che contiene di dati relativi all'occlusione. Questi dati permettono anche di risparmiare non renderizzando gli oggetti fuori dal campo visivo (\textit{Occlusion Culling}).
+Un'altro strumento che ho adoperato nel processo di ottimizzazione è il \textit{raggruppamento delle chiamate alle API grafiche (Draw Call Batching)}, spesso molto esigenti dal punto di vista delle risorse. Unity aiuta gli sviluppatori
+offrendo due strumenti:
+\begin{itemize}
+	\item Raggruppamento dinamico (Dynamic Batching): ottimale per piccole mesh, i cui vertici simili vengono raggruppati dalla CPU e renderizzati una volta sola. Se abusato può appesantire troppo la CPU.
+	\item Raggruppamento statico (Static Batching): combnina GameObjects statici in uniche mesh più grandi, rendendo più veloce il processo di rendering. Può aumentare i costi di accesso memoria se usato troppo.
+\end{itemize} 
+Solamente oggetti che condividono gli stessi materiali possono essere raggruppati insieme, per questo ho cercato di utilizzarne pochi in tutta la scena creando delle \textit{texture atlases} in cui più texture sono unite formandone una più grande. Se i GameObject rispettano questo vincolo e non hanno \textit{mirroring}(un oggetto con scala +1 ed un altro con scala -1) nelle componenti transform vengono raggruppati dinamicamente in automatico. Invece il vincolo affinché un oggetto venga raggruppato staticamente nella fase di rendering è che sia statico. \\
+
+Probabilmente la parte che più grava sulle performance di un'applicazione è quella relativa all'illuminazione e questo è ancora più importante se si parla di realtà virtuale. L'illuminazione infatti deve essere calcolata precedentemente, poiché un approccio real time sarebbe troppo dispendioso per un dispositivo mobile. Quando questi atlanti dell'illuminazione (\textit{lightmaps}) sono calcolati a priori, gli effetti della luce sugli oggetti statici sono scritti sulle texture che verranno applicate alle geometrie, riproducendo l'illuminazione desiderata. Queste lightmaps possono includere sia la luce diretta che colpisce le superfici, sia quella indiretta che rimbalza tra le geometrie. L'unico limite è che le luci non possono cambiare a tempo di esecuzione. \\
+Importanti ai fini di snellire il processo d'illuminazione della scena sono i \textit{light probes}. La loro unica differenza con le lightmaps è che invece di immagazzinare e usare le informazioni riguardanti la luce che colpisce delle superficie, gestisce la luce che passa per gli spazi vuoti nell'ambientazione, conferendo alla scena un'aspetto più naturale. \\
+Infine per dare l'ultimo tocco di realismo alla scena ho utilizzato un \textit{reflection probe}, ovvero uno strumento che funge da camera che cattura un'immagine sferica di ciò che la circonda. Questa immagine è immagazzinata in una \textit{cubemap} la quale fornisce informazione ai materiali che riflettono o sono specchiati.\\
+
+L'utilizzo di un filtro anti-aliasing è altamente consigliato se si vogliono sviluppare applicazioni VR, poiché aiuta a "levigare" l'immagine evitando la presenza di bordi frastagliati. In particolare per le esperienze con i Gear VR è quasi obbligatorio l'adozione di un filtro MSAA, ai fini di ottenere una buona esperienza per l'utente. \\
+
+Per quanto riguarda gli \textit{shaders}, ovvero piccoli script che contengono i calcoli matematici e gli algoritmi che computano il colore di ogni pixel renderizzato basandosi sulla luce e sul materiale.
+
+
+
+
 \section{Interfaccia grafica}
 \section{Architettura software}
+async load

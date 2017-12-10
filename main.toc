@@ -14,7 +14,7 @@
 \contentsline {section}{\numberline {2.2}Ambienti di lavoro e di formazione virtualizzati}{13}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Telepresenza}{13}{subsection.2.2.1}
 \contentsline {subsection}{\numberline {2.2.2}I vantaggi}{13}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}Limiti}{16}{section.2.3}
+\contentsline {subsection}{\numberline {2.2.3}Limiti}{16}{subsection.2.2.3}
 \contentsline {chapter}{\chapternumberline {3}Tecnologie adottate}{18}{chapter.3}
 \contentsline {section}{\numberline {3.1}Unity}{18}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}L'Editor di Unity}{21}{subsection.3.1.1}
@@ -27,8 +27,8 @@
 \contentsline {section}{\numberline {4.2}Principali Funzionalit\IeC {\`a} e Casi d'Uso}{31}{section.4.2}
 \contentsline {section}{\numberline {4.3}Esperienza d'uso}{32}{section.4.3}
 \contentsline {chapter}{\chapternumberline {5}Progettazione e Sviluppo}{33}{chapter.5}
-\contentsline {section}{\numberline {5.1}Ambientazione grafica}{33}{section.5.1}
-\contentsline {section}{\numberline {5.2}Interfaccia grafica}{33}{section.5.2}
-\contentsline {section}{\numberline {5.3}Architettura software}{33}{section.5.3}
-\contentsline {chapter}{Conclusioni e sviluppi futuri}{34}{chapter*.4}
-\contentsline {chapter}{Bibliografia}{35}{section*.6}
+\contentsline {section}{\numberline {5.1}Ambientazione Grafica}{33}{section.5.1}
+\contentsline {section}{\numberline {5.2}Interfaccia grafica}{35}{section.5.2}
+\contentsline {section}{\numberline {5.3}Architettura software}{35}{section.5.3}
+\contentsline {chapter}{Conclusioni e sviluppi futuri}{36}{chapter*.4}
+\contentsline {chapter}{Bibliografia}{37}{section*.6}

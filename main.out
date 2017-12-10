@@ -9,7 +9,7 @@
 \BOOKMARK [1][-]{section.2.2}{Ambienti di lavoro e di formazione virtualizzati}{chapter.2}% 9
 \BOOKMARK [2][-]{subsection.2.2.1}{Telepresenza}{section.2.2}% 10
 \BOOKMARK [2][-]{subsection.2.2.2}{I vantaggi}{section.2.2}% 11
-\BOOKMARK [1][-]{section.2.3}{Limiti}{chapter.2}% 12
+\BOOKMARK [2][-]{subsection.2.2.3}{Limiti}{section.2.2}% 12
 \BOOKMARK [0][-]{chapter.3}{Tecnologie adottate}{}% 13
 \BOOKMARK [1][-]{section.3.1}{Unity}{chapter.3}% 14
 \BOOKMARK [2][-]{subsection.3.1.1}{L'Editor di Unity}{section.3.1}% 15
@@ -20,7 +20,7 @@
 \BOOKMARK [1][-]{section.4.2}{Principali Funzionalit\340 e Casi d'Uso}{chapter.4}% 20
 \BOOKMARK [1][-]{section.4.3}{Esperienza d'uso}{chapter.4}% 21
 \BOOKMARK [0][-]{chapter.5}{Progettazione e Sviluppo}{}% 22
-\BOOKMARK [1][-]{section.5.1}{Ambientazione grafica}{chapter.5}% 23
+\BOOKMARK [1][-]{section.5.1}{Ambientazione Grafica}{chapter.5}% 23
 \BOOKMARK [1][-]{section.5.2}{Interfaccia grafica}{chapter.5}% 24
 \BOOKMARK [1][-]{section.5.3}{Architettura software}{chapter.5}% 25
 \BOOKMARK [0][-]{chapter*.4}{Conclusioni e sviluppi futuri}{}% 26
