@@ -1,19 +1,36 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
 The style file: alpha.bst
 Database file #1: bibliografia.bib
-I was expecting a `,' or a `}'---line 25 of file bibliografia.bib
+I was expecting a `,' or a `}'---line 45 of file bibliografia.bib
  :  
  :  url = "\url{http://www.tsu.ox.ac.uk/pubs/1024-banister-etal.pdf}",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Unbalanced braces---line 35 of file bibliografia.bib
- :  url = "\urlhttp://cseweb.ucsd.edu/~ravir/6160/papers/p31-levoy.pdf
- :                                                                    }",
+Unbalanced braces---line 56 of file bibliografia.bib
+ : 
+ : }
+(Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Repeated entry---line 38 of file bibliografia.bib
+I was expecting a `,' or a `}'---line 66 of file bibliografia.bib
+ :  
+ :  url="\url{https://scholar.princeton.edu/sites/default/files/maguiar/files/leisure-luxuries-labor-June-2017.pdf"}",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 75 of file bibliografia.bib
+ : 
+ : url="\url{http://steinhardtapps.es.its.nyu.edu/create/courses/2015/reading/steuer.pdf"},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 78 of file bibliografia.bib
  : @misc{ VRApplications
  :                      ,
 I'm skipping whatever remains of this entry
+Warning--entry type for "UnityAdam" isn't style-file defined
+--line 90 of file bibliografia.bib
+Warning--entry type for "Cuphead" isn't style-file defined
+--line 95 of file bibliografia.bib
+Warning--entry type for "ThesisUnity" isn't style-file defined
+--line 100 of file bibliografia.bib
 Warning--to sort, need author or key in VRApplications
 Name 1 in "the Vestibular Disorders Association, with contributions by Mary Ann Watson, MA, and F. Owen Black, MD, FACS, and Matthew Crowson, MD" has a comma at the end for entry vestibular
 while executing---line 1185 of file alpha.bst
@@ -75,7 +92,22 @@ Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Marti
 while executing---line 1185 of file alpha.bst
 Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
 while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Sebastian Deterding, Dan Dixon, Rilla Khaled, Lennart Nacke" for entry Gamification
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Sebastian Deterding, Dan Dixon, Rilla Khaled, Lennart Nacke" for entry Gamification
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Sebastian Deterding, Dan Dixon, Rilla Khaled, Lennart Nacke" for entry Leisure
+while executing---line 1185 of file alpha.bst
+Too many commas in name 1 of "Sebastian Deterding, Dan Dixon, Rilla Khaled, Lennart Nacke" for entry Leisure
+while executing---line 1185 of file alpha.bst
 Warning--empty journal in POL
+Warning--empty publisher in DVR
+Too many commas in name 1 of "Sebastian Deterding, Dan Dixon, Rilla Khaled, Lennart Nacke" for entry Gamification
+while executing---line 1250 of file alpha.bst
+Warning--empty journal in Gamification
+Too many commas in name 1 of "Sebastian Deterding, Dan Dixon, Rilla Khaled, Lennart Nacke" for entry Leisure
+while executing---line 1250 of file alpha.bst
+Warning--empty journal in Leisure
 Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
 while executing---line 1250 of file alpha.bst
 Too many commas in name 1 of "Simon J. Watt, Kurt Akeley, Ahna R. Girshick,Martin S. Banks School of Psychology, University of Wales Bangor, LL57 2AS, United Kingdom; Microsoft Research: Asia, Beijing Sigma Center, No. 49, Zhichun Road, Beijing, China 100080; School of Optometry, 360 Minor Hall, University of California, Berkeley, CA USA 94720" for entry MFP
@@ -110,4 +142,4 @@ Name 2 in "the Vestibular Disorders Association, with contributions by Mary Ann 
 while executing---line 1250 of file alpha.bst
 Warning--empty journal in LFD
 Warning--empty year in LFD
-(There were 48 error messages)
+(There were 56 error messages)

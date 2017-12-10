@@ -1,5 +1,9 @@
 \begin{thebibliography}{tVDAFOBMC}
 
+\bibitem[Cor]{Cuphead}
+MDHR Corp.
+\newblock Cuphead.
+
 \bibitem[DBML07]{POL}
 Carey~Newson David~Banister and University of~Oxford Matthew~Ledbury, Transport
   Studies~Unit.
@@ -7,10 +11,34 @@ Carey~Newson David~Banister and University of~Oxford Matthew~Ledbury, Transport
   reducing carbon emission.
 \newblock 2007.
 
+\bibitem[Jon92]{DVR}
+Steuer Jonathan.
+\newblock {\em Defining Virtual Reality: Dimensions Determining Telepresence}.
+\newblock 1992.
+
+\bibitem[Joy]{VRStone}
+Kevin Joyce.
+\newblock Applications of virtual reality.
+
 \bibitem[LaV17]{VRbook}
 Steve~M. LaValle.
 \newblock Virtual reality.
 \newblock In {\em Virtual Reality}, 2017.
+
+\bibitem[Pen]{ThesisUnity}
+Aleksei Penzentcev.
+\newblock Architecture and implementation of the system for serious games in
+  unity 3d.
+
+\bibitem[SD11]{Gamification}
+Rilla Khaled Lennart~Nacke Sebastian~Deterding, Dan~Dixon.
+\newblock From game design elements to gamefulness: Defining gamitication.
+\newblock 2011.
+
+\bibitem[SD17]{Leisure}
+Rilla Khaled Lennart~Nacke Sebastian~Deterding, Dan~Dixon.
+\newblock Leisure luxuries and the labor supply of young men.
+\newblock 2017.
 
 \bibitem[SJW]{MFP}
 Ahna R. Girshick Martin S. Banks School of Psychology University of Wales
@@ -20,13 +48,33 @@ Ahna R. Girshick Martin S. Banks School of Psychology University of Wales
 \newblock Achieving near-correct focus cues in a 3-d display using multiple
   image planes.
 
+\bibitem[Teca]{UnityEditor}
+Unity Technologies.
+\newblock {\em The Main Windows}.
+
+\bibitem[Tecb]{UnityAdam}
+Unity Technologies.
+\newblock Unity - adam.
+
+\bibitem[Tecc]{UnityPlat}
+Unity Technologies.
+\newblock Unity supported platforms.
+
+\bibitem[Tecd]{UnityReq}
+Unity Technologies.
+\newblock Unity supported platforms.
+
 \bibitem[tVDAFOBMC]{vestibular}
 MA~the Vestibular Disorders~Association, with contributions by Mary Ann~Watson,
   FACS F.~Owen~Black, MD, and MD~Matthew~Crowson.
 \newblock The human balance system.
 
 \bibitem[VRA]{VRApplications}
-Applications of virtual reality.
+Grand theft auto creator on vr: ‘in some ways we are still in the stone-age.
+
+\bibitem[Wik]{UnityDesc}
+Wikipedia.
+\newblock Unity (motore grafico).
 
 \bibitem[yPH]{LFD}
 Marc~Levo y and Stanford~University Pat~Hanrahan, Computer Science~Department.

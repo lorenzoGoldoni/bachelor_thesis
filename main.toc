@@ -1,5 +1,6 @@
-\select@language {english}
-\contentsline {chapter}{Contents}{iv}{section*.2}
+\select@language {italian}
+\select@language {italian}
+\contentsline {chapter}{Indice}{iv}{section*.2}
 \contentsline {chapter}{Introduzione}{vi}{chapter*.3}
 \contentsline {chapter}{\chapternumberline {1}Realt\IeC {\`a} virtuale}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Cos'\IeC {\`e} la realt\IeC {\`a} virtuale?}{1}{section.1.1}
@@ -7,23 +8,27 @@
 \contentsline {subsection}{\numberline {1.1.2}Lo stato dell'arte}{3}{subsection.1.1.2}
 \contentsline {subsubsection}{\numberline {1.1.2.1}Applicazioni }{3}{subsubsection.1.1.2.1}
 \contentsline {subsubsection}{\numberline {1.1.2.2}Hardware}{4}{subsubsection.1.1.2.2}
-\contentsline {subsubsection}{\numberline {1.1.2.3}Software}{7}{subsubsection.1.1.2.3}
-\contentsline {chapter}{\chapternumberline {2}Smart working e ambienti di lavoro virtualizzati}{9}{chapter.2}
-\contentsline {section}{\numberline {2.1}Cos'\IeC {\`e} lo smart working?}{9}{section.2.1}
-\contentsline {section}{\numberline {2.2}I vantaggi del processo di virtualizzazione}{11}{section.2.2}
-\contentsline {section}{\numberline {2.3}Limiti tecnici}{11}{section.2.3}
-\contentsline {chapter}{\chapternumberline {3}Requisiti del progetto}{12}{chapter.3}
-\contentsline {section}{\numberline {3.1}Una sala riunioni in realt\IeC {\`a} virtuale}{12}{section.3.1}
-\contentsline {section}{\numberline {3.2}Principali funzionalit\IeC {\`a} e casi d'uso}{12}{section.3.2}
-\contentsline {section}{\numberline {3.3}Gestione sicura dei dati}{12}{section.3.3}
-\contentsline {section}{\numberline {3.4}Esperienza d'uso}{12}{section.3.4}
-\contentsline {chapter}{\chapternumberline {4}Tecnologie adottate}{13}{chapter.4}
-\contentsline {section}{\numberline {4.1}Unity3D}{13}{section.4.1}
-\contentsline {section}{\numberline {4.2}Samsung GearVR}{13}{section.4.2}
-\contentsline {section}{\numberline {4.3}Samsung Vox}{13}{section.4.3}
-\contentsline {chapter}{\chapternumberline {5}Analisi del progetto}{14}{chapter.5}
-\contentsline {section}{\numberline {5.1}Ambientazione grafica}{14}{section.5.1}
-\contentsline {section}{\numberline {5.2}Interfaccia grafica}{14}{section.5.2}
-\contentsline {section}{\numberline {5.3}Architettura software}{14}{section.5.3}
-\contentsline {chapter}{Conclusioni e sviluppi futuri}{15}{chapter*.4}
-\contentsline {chapter}{Bibliography}{16}{section*.6}
+\contentsline {subsubsection}{\numberline {1.1.2.3}Software}{8}{subsubsection.1.1.2.3}
+\contentsline {chapter}{\chapternumberline {2}Smart working e ambienti di lavoro virtualizzati}{11}{chapter.2}
+\contentsline {section}{\numberline {2.1}Cos'\IeC {\`e} lo smart working?}{11}{section.2.1}
+\contentsline {section}{\numberline {2.2}Ambienti di lavoro e di formazione virtualizzati}{13}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Telepresenza}{13}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}I vantaggi}{13}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Limiti}{16}{section.2.3}
+\contentsline {chapter}{\chapternumberline {3}Tecnologie adottate}{18}{chapter.3}
+\contentsline {section}{\numberline {3.1}Unity}{18}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}L'Editor di Unity}{21}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Architettura Software di Unity}{24}{subsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.2.1}Elementi Base}{24}{subsubsection.3.1.2.1}
+\contentsline {subsubsection}{\numberline {3.1.2.2}Ciclo di Vita}{26}{subsubsection.3.1.2.2}
+\contentsline {section}{\numberline {3.2}Samsung Gear VR}{29}{section.3.2}
+\contentsline {chapter}{\chapternumberline {4}Requisiti del Progetto}{30}{chapter.4}
+\contentsline {section}{\numberline {4.1}Una Sala Riunioni in Realt\IeC {\`a} Virtuale}{30}{section.4.1}
+\contentsline {section}{\numberline {4.2}Principali Funzionalit\IeC {\`a} e Casi d'Uso}{31}{section.4.2}
+\contentsline {section}{\numberline {4.3}Esperienza d'uso}{32}{section.4.3}
+\contentsline {chapter}{\chapternumberline {5}Progettazione e Sviluppo}{33}{chapter.5}
+\contentsline {section}{\numberline {5.1}Ambientazione grafica}{33}{section.5.1}
+\contentsline {section}{\numberline {5.2}Interfaccia grafica}{33}{section.5.2}
+\contentsline {section}{\numberline {5.3}Architettura software}{33}{section.5.3}
+\contentsline {chapter}{Conclusioni e sviluppi futuri}{34}{chapter*.4}
+\contentsline {chapter}{Bibliografia}{35}{section*.6}

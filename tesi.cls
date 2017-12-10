@@ -5,7 +5,7 @@
 \LoadClass[a4paper,11pt,oneside,italian]{memoir}
 
 % Si utilizza la sillabazione italiana
-\RequirePackage[italian,english]{babel}
+\RequirePackage[italian]{babel}
 
 % Load graphicx
 \RequirePackage{graphicx}
@@ -15,6 +15,8 @@
 \usepackage[utf8]{inputenc}
 % pacchetti per i font
 \usepackage[T1]{fontenc}
+\usepackage{algorithmic}
+\usepackage{algorithm}
 % interlinea
 \linespread{1.4}
 % margini (la dimensione del blocco di testo viene regolata di conseguenza)
@@ -24,7 +26,6 @@
 % numera parti, capitoli, sezioni, sottosezioni e sotto-sottosezioni
 \maxsecnumdepth{subsubsection}
 \setsecnumdepth{subsubsection}
-
 % header personalizzati
 \let\footruleskip\relax % for compatibility of memoir and fancyhdr
 \let\rm\rmfamily        % for compatibility of memoir and blindtext (demo only)
