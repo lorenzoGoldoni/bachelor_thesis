@@ -1,91 +1,87 @@
-\begin{thebibliography}{tVDAFOBMC}
+\begin{thebibliography}{10}
 
-\bibitem[Cor]{Cuphead}
-MDHR Corp.
+\bibitem{VRApplications}
+Applications of virtual reality.
+
+\bibitem{Cuphead}
+M.~Corp.
 \newblock Cuphead.
 
-\bibitem[DB07]{POL}
-Carey~Newson David~Banister.
+\bibitem{POL}
+C.~N. David~Banister.
 \newblock The cost of transport on the environment - the role of teleworking in
   reducing carbon emission.
 \newblock 2007.
 
-\bibitem[Gam]{Photon}
-Exit Games.
+\bibitem{Photon}
+E.~Games.
 \newblock {\em Photon Unity Networking}.
 
-\bibitem[Jon92]{DVR}
-Steuer Jonathan.
+\bibitem{DVR}
+S.~Jonathan.
 \newblock {\em Defining Virtual Reality: Dimensions Determining Telepresence}.
 \newblock 1992.
 
-\bibitem[Joy]{VRStone}
-Kevin Joyce.
-\newblock Applications of virtual reality.
-
-\bibitem[LaV17]{VRbook}
-Steve~M. LaValle.
+\bibitem{VRbook}
+S.~M. LaValle.
 \newblock Virtual reality.
 \newblock In {\em Virtual Reality}, 2017.
 
-\bibitem[Ltd]{VRTK}
-Sysdia~Solutions Ltd.
+\bibitem{VRTK}
+S.~S. Ltd.
 \newblock {\em Virtual Reality Toolkit}.
 
-\bibitem[OV]{OculusDoc}
-LLC Oculus~VR.
+\bibitem{OculusDoc}
+L.~Oculus~VR.
 \newblock {\em Oculus Documentation}.
 
-\bibitem[Pen]{ThesisUnity}
-Aleksei Penzentcev.
+\bibitem{ThesisUnity}
+A.~Penzentcev.
 \newblock Architecture and implementation of the system for serious games in
   unity 3d.
 
-\bibitem[SD11]{Gamification}
-Rilla Khaled Lennart~Nacke Sebastian~Deterding, Dan~Dixon.
+\bibitem{Gamification}
+R.~K. L.~N. Sebastian~Deterding, Dan~Dixon.
 \newblock From game design elements to gamefulness: Defining gamitication.
 \newblock 2011.
 
-\bibitem[SD17]{Leisure}
-Rilla Khaled Lennart~Nacke Sebastian~Deterding, Dan~Dixon.
+\bibitem{Leisure}
+R.~K. L.~N. Sebastian~Deterding, Dan~Dixon.
 \newblock Leisure luxuries and the labor supply of young men.
 \newblock 2017.
 
-\bibitem[SJW]{MFP}
-Ahna R.~Girshick Simon J.~Watt, Kurt~Akeley.
+\bibitem{MFP}
+A.~R.~G. Simon J.~Watt, Kurt~Akeley.
 \newblock Achieving near-correct focus cues in a 3-d display using multiple
   image planes.
 
-\bibitem[Teca]{UnityEditor}
-Unity Technologies.
+\bibitem{UnityEditor}
+U.~Technologies.
 \newblock {\em The Main Windows}.
 
-\bibitem[Tecb]{UnityAdam}
-Unity Technologies.
+\bibitem{UnityAdam}
+U.~Technologies.
 \newblock Unity - adam.
 
-\bibitem[Tecc]{UnityPlat}
-Unity Technologies.
+\bibitem{UnityPlat}
+U.~Technologies.
 \newblock Unity supported platforms.
 
-\bibitem[Tecd]{UnityReq}
-Unity Technologies.
-\newblock Unity supported platforms.
+\bibitem{UnityReq}
+U.~Technologies.
+\newblock Unity system requirements.
 
-\bibitem[tVDAFOBMC]{vestibular}
-MA~the Vestibular Disorders~Association, with contributions by Mary Ann~Watson,
-  FACS F.~Owen~Black, MD, and MD~Matthew~Crowson.
+\bibitem{vestibular}
+M.~the Vestibular Disorders~Association, with contributions by Mary Ann~Watson,
+  F.~F.~Owen~Black, MD, and M.~Matthew~Crowson.
 \newblock The human balance system.
 
-\bibitem[VRA]{VRApplications}
-Grand theft auto creator on vr: ‘in some ways we are still in the stone-age.
-
-\bibitem[Wik]{UnityDesc}
+\bibitem{UnityDesc}
 Wikipedia.
 \newblock Unity (motore grafico).
 
-\bibitem[yPH]{LFD}
-Marc~Levo y and Stanford~University Pat~Hanrahan, Computer Science~Department.
+\bibitem{LFD}
+M.~L. y and S.~U. Pat~Hanrahan, Computer Science~Department.
 \newblock Achieving near-correct focus cues in a 3-d display using multiple
   image planes.
 

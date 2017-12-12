@@ -1,67 +1,56 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
-The style file: alpha.bst
+The style file: abbrv.bst
 Database file #1: bibliografia.bib
-I was expecting a `,' or a `}'---line 45 of file bibliografia.bib
+I was expecting a `,' or a `}'---line 41 of file bibliografia.bib
  :  
  :  url = "\url{http://www.tsu.ox.ac.uk/pubs/1024-banister-etal.pdf}",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Unbalanced braces---line 56 of file bibliografia.bib
+Unbalanced braces---line 52 of file bibliografia.bib
  : 
  : }
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 66 of file bibliografia.bib
+I was expecting a `,' or a `}'---line 62 of file bibliografia.bib
  :  
  :  url="\url{https://scholar.princeton.edu/sites/default/files/maguiar/files/leisure-luxuries-labor-June-2017.pdf"}",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 75 of file bibliografia.bib
+I was expecting a `,' or a `}'---line 71 of file bibliografia.bib
  : 
  : url="\url{http://steinhardtapps.es.its.nyu.edu/create/courses/2015/reading/steuer.pdf"},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Repeated entry---line 78 of file bibliografia.bib
- : @misc{ VRApplications
- :                      ,
-I'm skipping whatever remains of this entry
 Warning--entry type for "UnityAdam" isn't style-file defined
---line 90 of file bibliografia.bib
+--line 86 of file bibliografia.bib
 Warning--entry type for "Cuphead" isn't style-file defined
---line 95 of file bibliografia.bib
+--line 91 of file bibliografia.bib
 Warning--entry type for "ThesisUnity" isn't style-file defined
---line 100 of file bibliografia.bib
+--line 96 of file bibliografia.bib
+Warning--I didn't find a database entry for "VRStone"
 Warning--to sort, need author or key in VRApplications
 Name 1 in "the Vestibular Disorders Association, with contributions by Mary Ann Watson, MA, and F. Owen Black, MD, FACS, and Matthew Crowson, MD" has a comma at the end for entry vestibular
-while executing---line 1185 of file alpha.bst
+while executing---line 1049 of file abbrv.bst
 Name 2 in "the Vestibular Disorders Association, with contributions by Mary Ann Watson, MA, and F. Owen Black, MD, FACS, and Matthew Crowson, MD" has a comma at the end for entry vestibular
-while executing---line 1185 of file alpha.bst
-Name 1 in "the Vestibular Disorders Association, with contributions by Mary Ann Watson, MA, and F. Owen Black, MD, FACS, and Matthew Crowson, MD" has a comma at the end for entry vestibular
-while executing---line 1185 of file alpha.bst
-Name 2 in "the Vestibular Disorders Association, with contributions by Mary Ann Watson, MA, and F. Owen Black, MD, FACS, and Matthew Crowson, MD" has a comma at the end for entry vestibular
-while executing---line 1185 of file alpha.bst
+while executing---line 1049 of file abbrv.bst
 Too many commas in name 1 of "Sebastian Deterding, Dan Dixon, Rilla Khaled, Lennart Nacke" for entry Gamification
-while executing---line 1185 of file alpha.bst
-Too many commas in name 1 of "Sebastian Deterding, Dan Dixon, Rilla Khaled, Lennart Nacke" for entry Gamification
-while executing---line 1185 of file alpha.bst
+while executing---line 1049 of file abbrv.bst
 Too many commas in name 1 of "Sebastian Deterding, Dan Dixon, Rilla Khaled, Lennart Nacke" for entry Leisure
-while executing---line 1185 of file alpha.bst
-Too many commas in name 1 of "Sebastian Deterding, Dan Dixon, Rilla Khaled, Lennart Nacke" for entry Leisure
-while executing---line 1185 of file alpha.bst
+while executing---line 1049 of file abbrv.bst
 Warning--empty journal in POL
 Warning--empty publisher in DVR
 Too many commas in name 1 of "Sebastian Deterding, Dan Dixon, Rilla Khaled, Lennart Nacke" for entry Gamification
-while executing---line 1250 of file alpha.bst
+while executing---line 1090 of file abbrv.bst
 Warning--empty journal in Gamification
 Too many commas in name 1 of "Sebastian Deterding, Dan Dixon, Rilla Khaled, Lennart Nacke" for entry Leisure
-while executing---line 1250 of file alpha.bst
+while executing---line 1090 of file abbrv.bst
 Warning--empty journal in Leisure
 Warning--empty journal in MFP
 Warning--empty year in MFP
 Name 1 in "the Vestibular Disorders Association, with contributions by Mary Ann Watson, MA, and F. Owen Black, MD, FACS, and Matthew Crowson, MD" has a comma at the end for entry vestibular
-while executing---line 1250 of file alpha.bst
+while executing---line 1090 of file abbrv.bst
 Name 2 in "the Vestibular Disorders Association, with contributions by Mary Ann Watson, MA, and F. Owen Black, MD, FACS, and Matthew Crowson, MD" has a comma at the end for entry vestibular
-while executing---line 1250 of file alpha.bst
+while executing---line 1090 of file abbrv.bst
 Warning--empty journal in LFD
 Warning--empty year in LFD
-(There were 17 error messages)
+(There were 12 error messages)
