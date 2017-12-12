@@ -14,9 +14,18 @@
 
 \usepackage[utf8]{inputenc}
 % pacchetti per i font
+
 \usepackage[T1]{fontenc}
 \usepackage{algorithmic}
 \usepackage{algorithm}
+\newlength\myindent
+\setlength\myindent{1em}
+\newcommand\bindent{%
+  \begingroup
+  \setlength{\itemindent}{\myindent}
+  \addtolength{\algorithmicindent}{\myindent}
+}
+\newcommand\eindent{\endgroup}
 % interlinea
 \linespread{1.4}
 % margini (la dimensione del blocco di testo viene regolata di conseguenza)
@@ -52,7 +61,7 @@
 \newcommand{\@relatore}{Prof. Maurizio Pizzonia}
 \newcommand{\relatore}[1]{\renewcommand{\@relatore}{#1}}
 % Correlatore (Titolo Nome Cognome, es: Dott. Pippo Caruso)
-\newcommand{\@correlatore}{Raphaël Bussa}
+\newcommand{\@correlatore}{}
 \newcommand{\correlatore}[1]{\renewcommand{\@correlatore}{#1}}
 % Dedica
 \newcommand{\@dedica}{}

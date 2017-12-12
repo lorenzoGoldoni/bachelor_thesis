@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.7)  10 DEC 2017 21:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.7)  12 DEC 2017 19:50
 entering extended mode
 **./main.tex
 (main.tex
@@ -744,18 +744,20 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@every@algorithm=\toks27
 \c@algorithm=\count147
 )
+\myindent=\skip187
+
 ("E:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
 s
-\f@nch@headwidth=\skip187
-\f@nch@O@elh=\skip188
-\f@nch@O@erh=\skip189
-\f@nch@O@olh=\skip190
-\f@nch@O@orh=\skip191
-\f@nch@O@elf=\skip192
-\f@nch@O@erf=\skip193
-\f@nch@O@olf=\skip194
-\f@nch@O@orf=\skip256
+\f@nch@headwidth=\skip188
+\f@nch@O@elh=\skip189
+\f@nch@O@erh=\skip190
+\f@nch@O@olh=\skip191
+\f@nch@O@orh=\skip192
+\f@nch@O@elf=\skip193
+\f@nch@O@erf=\skip194
+\f@nch@O@olf=\skip256
+\f@nch@O@orf=\skip257
 ))
 ("E:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
@@ -873,7 +875,7 @@ Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip257
+\Hy@SectionHShift=\skip258
 )
 ("E:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\hypcap.sty"
 Package: hypcap 2016/05/16 v1.12 Adjusting the anchors of captions (HO)
@@ -885,14 +887,14 @@ Package: amsthm 2015/03/04 v2.20.2
 \thm@headfont=\toks30
 \thm@notefont=\toks31
 \thm@headpunct=\toks32
-\thm@preskip=\skip258
-\thm@postskip=\skip259
-\thm@headsep=\skip260
+\thm@preskip=\skip259
+\thm@postskip=\skip260
+\thm@headsep=\skip261
 \dth@everypar=\toks33
 )
 ("E:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2017/09/02 v2.17a AMS math features
-\@mathmargin=\skip261
+\@mathmargin=\skip262
 
 For additional information on amsmath, use the `?' option.
 ("E:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
@@ -942,8 +944,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \totwidth@=\dimen161
 \lineht@=\dimen162
 \@envbody=\toks37
-\multlinegap=\skip262
-\multlinetaggap=\skip263
+\multlinegap=\skip263
+\multlinetaggap=\skip264
 \mathdisplay@stack=\toks38
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
@@ -958,22 +960,22 @@ Package: wrapfig 2003/01/31  v 3.6
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Info: Redefining \it@ocap on input line 23.
-LaTeX Info: Redefining \it@ccap on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Info: Redefining \it@ocap on input line 22.
+LaTeX Info: Redefining \it@ccap on input line 22.
 
 ("E:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1002,7 +1004,7 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 \AtBeginShipoutBox=\box35
-Package hyperref Info: Link coloring OFF on input line 23.
+Package hyperref Info: Link coloring OFF on input line 22.
 
 ("E:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1014,21 +1016,21 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 23.
-LaTeX Info: Redefining \ref on input line 23.
-LaTeX Info: Redefining \pageref on input line 23.
-LaTeX Info: Redefining \nameref on input line 23.
+LaTeX Info: Redefining \nameref on input line 22.
+LaTeX Info: Redefining \ref on input line 22.
+LaTeX Info: Redefining \pageref on input line 22.
+LaTeX Info: Redefining \nameref on input line 22.
 (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-<figure/uniroma3-logo.pdf, id=111, pagebox=cropbox, 196.735pt x 109.40875pt>
+<figure/uniroma3-logo.pdf, id=119, pagebox=cropbox, 196.735pt x 109.40875pt>
 File: figure/uniroma3-logo.pdf Graphic file (type pdf)
 <use figure/uniroma3-logo.pdf>
-Package pdftex.def Info: figure/uniroma3-logo.pdf  used on input line 26. on in
-put line 26.
+Package pdftex.def Info: figure/uniroma3-logo.pdf  used on input line 25. on in
+put line 25.
 Package pdftex.def Info: Requested size: 165.02347pt x 91.77249pt on input line
- 26.
+ 25.
  [1
 
 
@@ -1036,14 +1038,39 @@ Package pdftex.def Info: Requested size: 165.02347pt x 91.77249pt on input line
 uniroma3-logo.pdf>] [2] (Ringraziamenti.tex) [3
 
 ]
-(main.toc [4]) [5] (Introduzione.tex) [6
+(main.toc [4]) [5] (Introduzione.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--4
 
+ []
 
-] (capitolo1.tex [1
+[6
 
 
 ]
-<figure/VRfool.png, id=196, 207.44167pt x 167.29167pt>
+Underfull \hbox (badness 10000) in paragraph at lines 18--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--27
+
+ []
+
+) [7] (capitolo1.tex [1
+
+
+]
+<figure/VRfool.png, id=218, 207.44167pt x 167.29167pt>
 File: figure/VRfool.png Graphic file (type png)
 <use figure/VRfool.png>
 Package pdftex.def Info: figure/VRfool.png  used on input line 21. on input lin
@@ -1051,14 +1078,14 @@ e 21.
 Package pdftex.def Info: Requested size: 103.14124pt x 83.17848pt on input line
  21.
  [2 <./figure/VRfool.png>] [3]
-<figure/RealityBB.png, id=216, 357.4956pt x 105.5142pt>
+<figure/RealityBB.png, id=238, 357.4956pt x 105.5142pt>
 File: figure/RealityBB.png Graphic file (type png)
 <use figure/RealityBB.png>
 Package pdftex.def Info: figure/RealityBB.png  used on input line 53. on input 
 line 53.
 Package pdftex.def Info: Requested size: 202.15909pt x 59.66714pt on input line
  53.
-<figure/VRBB.png, id=218, 357.4956pt x 105.5142pt>
+<figure/VRBB.png, id=240, 357.4956pt x 105.5142pt>
 File: figure/VRBB.png Graphic file (type png)
 <use figure/VRBB.png>
 Package pdftex.def Info: figure/VRBB.png  used on input line 58. on input line 
@@ -1071,7 +1098,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--62
  []
 
 [4 <./figure/RealityBB.png> <./figure/VRBB.png>]
-<figure/TrackingStimuliBB.png, id=232, 325.6968pt x 158.0304pt>
+<figure/TrackingStimuliBB.png, id=254, 325.6968pt x 158.0304pt>
 File: figure/TrackingStimuliBB.png Graphic file (type png)
 <use figure/TrackingStimuliBB.png>
 Package pdftex.def Info: figure/TrackingStimuliBB.png  used on input line 70. o
@@ -1079,14 +1106,14 @@ n input line 70.
 Package pdftex.def Info: Requested size: 268.1647pt x 130.11865pt on input line
  70.
  [5 <./figure/TrackingStimuliBB.png>]
-<figure/Cardboard.png, id=242, 160.05106pt x 103.407pt>
+<figure/Cardboard.png, id=264, 160.05106pt x 103.407pt>
 File: figure/Cardboard.png Graphic file (type png)
 <use figure/Cardboard.png>
 Package pdftex.def Info: figure/Cardboard.png  used on input line 88. on input 
 line 88.
 Package pdftex.def Info: Requested size: 202.15909pt x 130.61537pt on input lin
 e 88.
-<figure/Oculus.png, id=243, 160.00739pt x 93.07095pt>
+<figure/Oculus.png, id=265, 160.00739pt x 93.07095pt>
 File: figure/Oculus.png Graphic file (type png)
 <use figure/Oculus.png>
 Package pdftex.def Info: figure/Oculus.png  used on input line 93. on input lin
@@ -1094,14 +1121,14 @@ e 93.
 Package pdftex.def Info: Requested size: 202.15909pt x 117.5938pt on input line
  93.
  [6 <./figure/Cardboard.png> <./figure/Oculus.png>]
-<figure/oldIMU.png, id=251, 165.92932pt x 124.44699pt>
+<figure/oldIMU.png, id=274, 165.92932pt x 124.44699pt>
 File: figure/oldIMU.png Graphic file (type png)
 <use figure/oldIMU.png>
 Package pdftex.def Info: figure/oldIMU.png  used on input line 113. on input li
 ne 113.
 Package pdftex.def Info: Requested size: 202.15909pt x 151.6257pt on input line
  113.
-<figure/IMU.png, id=252, 153.91946pt x 123.13557pt>
+<figure/IMU.png, id=275, 153.91946pt x 123.13557pt>
 File: figure/IMU.png Graphic file (type png)
 <use figure/IMU.png>
 Package pdftex.def Info: figure/IMU.png  used on input line 118. on input line 
@@ -1109,14 +1136,14 @@ Package pdftex.def Info: figure/IMU.png  used on input line 118. on input line
 Package pdftex.def Info: Requested size: 189.78265pt x 151.83725pt on input lin
 e 118.
  [7 <./figure/oldIMU.png> <./figure/IMU.png>]
-<figure/VisoreHW.png, id=259, 296.49231pt x 222.36923pt>
+<figure/VisoreHW.png, id=281, 296.49231pt x 222.36923pt>
 File: figure/VisoreHW.png Graphic file (type png)
 <use figure/VisoreHW.png>
 Package pdftex.def Info: figure/VisoreHW.png  used on input line 131. on input 
 line 131.
 Package pdftex.def Info: Requested size: 268.1647pt x 201.1382pt on input line 
 131.
-<figure/SoftwareBB.png, id=260, 345.08925pt x 217.41225pt>
+<figure/SoftwareBB.png, id=282, 345.08925pt x 217.41225pt>
 File: figure/SoftwareBB.png Graphic file (type png)
 <use figure/SoftwareBB.png>
 Package pdftex.def Info: figure/SoftwareBB.png  used on input line 146. on inpu
@@ -1147,42 +1174,53 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--15
 
  []
 
+<figure/Telepresenza.png, id=307, 285.4665pt x 309.5565pt>
+File: figure/Telepresenza.png Graphic file (type png)
+<use figure/Telepresenza.png>
+Package pdftex.def Info: figure/Telepresenza.png  used on input line 23. on inp
+ut line 23.
+Package pdftex.def Info: Requested size: 103.14124pt x 111.84647pt on input lin
+e 23.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--24
+\T1/cmr/m/n/10.95 ne an-co-ra ol-tre le po-ten-zia-li-tà in am-bi-ti la-vo-ra-t
+i-vo o di for-ma-zio-ne.
+ []
+
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 24--27
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
 
-[13]
-<figure/PolData.png, id=298, 262.0992pt x 95.8782pt>
+<figure/PolData.png, id=316, 262.0992pt x 95.8782pt>
 File: figure/PolData.png Graphic file (type png)
 <use figure/PolData.png>
-Package pdftex.def Info: figure/PolData.png  used on input line 32. on input li
-ne 32.
+Package pdftex.def Info: figure/PolData.png  used on input line 36. on input li
+ne 36.
 Package pdftex.def Info: Requested size: 268.1647pt x 98.09874pt on input line 
-32.
- [14 <./figure/PolData.png>]
-<figure/investimenti.png, id=308, 539.01375pt x 357.7365pt>
+36.
+[13 <./figure/Telepresenza.png>] [14 <./figure/PolData.png>]
+<figure/investimenti.png, id=332, 539.01375pt x 357.7365pt>
 File: figure/investimenti.png Graphic file (type png)
 <use figure/investimenti.png>
-Package pdftex.def Info: figure/investimenti.png  used on input line 43. on inp
-ut line 43.
-Package pdftex.def Info: Requested size: 268.1647pt x 177.97804pt on input line
- 43.
+Package pdftex.def Info: figure/investimenti.png  used on input line 47. on inp
+ut line 47.
+Package pdftex.def Info: Requested size: 185.65297pt x 123.21724pt on input lin
+e 47.
  [15] [16 <./figure/investimenti.png>]
-<figure/motionsickenss2.png, id=319, 590.205pt x 302.12875pt>
+<figure/motionsickenss2.png, id=343, 590.205pt x 302.12875pt>
 File: figure/motionsickenss2.png Graphic file (type png)
 <use figure/motionsickenss2.png>
-Package pdftex.def Info: figure/motionsickenss2.png  used on input line 55. on 
-input line 55.
+Package pdftex.def Info: figure/motionsickenss2.png  used on input line 59. on 
+input line 59.
 Package pdftex.def Info: Requested size: 268.1647pt x 137.27516pt on input line
- 55.
-)
-[17 <./figure/motionsickenss2.png>] (capitolo3.tex
+ 59.
+) [17 <./figure/motionsickenss2.png>] (capitolo3.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
 
-<figure/UnityLogo.png, id=327, 678.535pt x 246.9225pt>
+<figure/UnityLogo.png, id=351, 678.535pt x 246.9225pt>
 File: figure/UnityLogo.png Graphic file (type png)
 <use figure/UnityLogo.png>
 Package pdftex.def Info: figure/UnityLogo.png  used on input line 7. on input l
@@ -1204,91 +1242,92 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
  [18
 
  <./figure/UnityLogo.png>]
-<figure/Adam.jpg, id=340, 1284.8pt x 722.7pt>
+<figure/Adam.jpg, id=365, 1284.8pt x 722.7pt>
 File: figure/Adam.jpg Graphic file (type jpg)
 <use figure/Adam.jpg>
 Package pdftex.def Info: figure/Adam.jpg  used on input line 25. on input line 
 25.
 Package pdftex.def Info: Requested size: 202.15909pt x 113.70454pt on input lin
 e 25.
-<figure/Cuphead.jpg, id=341, 1927.2pt x 1085.05376pt>
+<figure/Cuphead.jpg, id=366, 1927.2pt x 1085.05376pt>
 File: figure/Cuphead.jpg Graphic file (type jpg)
 <use figure/Cuphead.jpg>
 Package pdftex.def Info: figure/Cuphead.jpg  used on input line 30. on input li
 ne 30.
 Package pdftex.def Info: Requested size: 202.15909pt x 113.80983pt on input lin
 e 30.
-<figure/EngineComp.png, id=346, 514.3215pt x 430.60875pt>
+ [19 <./figure/Adam.jpg> <./figure/Cuphead.jpg>]
+<figure/EngineComp.png, id=378, 514.3215pt x 430.60875pt>
 File: figure/EngineComp.png Graphic file (type png)
 <use figure/EngineComp.png>
-Package pdftex.def Info: figure/EngineComp.png  used on input line 38. on input
- line 38.
+Package pdftex.def Info: figure/EngineComp.png  used on input line 39. on input
+ line 39.
 Package pdftex.def Info: Requested size: 350.68274pt x 293.6051pt on input line
- 38.
- [19 <./figure/Adam.jpg> <./figure/Cuphead.jpg>] [20 <./figure/EngineComp.png>]
-<figure/Project.png, id=365, 803.0pt x 400.49625pt>
+ 39.
+ [20 <./figure/EngineComp.png>]
+<figure/Project.png, id=389, 803.0pt x 400.49625pt>
 File: figure/Project.png Graphic file (type png)
 <use figure/Project.png>
-Package pdftex.def Info: figure/Project.png  used on input line 54. on input li
-ne 54.
+Package pdftex.def Info: figure/Project.png  used on input line 55. on input li
+ne 55.
 Package pdftex.def Info: Requested size: 226.91199pt x 113.17094pt on input lin
-e 54.
-<figure/Scene.png, id=366, 803.0pt x 501.875pt>
+e 55.
+<figure/Scene.png, id=390, 803.0pt x 501.875pt>
 File: figure/Scene.png Graphic file (type png)
 <use figure/Scene.png>
-Package pdftex.def Info: figure/Scene.png  used on input line 65. on input line
- 65.
+Package pdftex.def Info: figure/Scene.png  used on input line 66. on input line
+ 66.
 Package pdftex.def Info: Requested size: 185.65297pt x 116.0338pt on input line
- 65.
+ 66.
  [21 <./figure/Project.png> <./figure/Scene.png>]
-<figure/Hierarchy.png, id=374, 278.03876pt x 327.2225pt>
+<figure/Hierarchy.png, id=398, 278.03876pt x 327.2225pt>
 File: figure/Hierarchy.png Graphic file (type png)
 <use figure/Hierarchy.png>
-Package pdftex.def Info: figure/Hierarchy.png  used on input line 77. on input 
-line 77.
+Package pdftex.def Info: figure/Hierarchy.png  used on input line 78. on input 
+line 78.
 Package pdftex.def Info: Requested size: 103.14124pt x 121.38498pt on input lin
-e 77.
-<figure/Inspector.png, id=375, 803.0pt x 501.875pt>
+e 78.
+<figure/Inspector.png, id=399, 803.0pt x 501.875pt>
 File: figure/Inspector.png Graphic file (type png)
 <use figure/Inspector.png>
-Package pdftex.def Info: figure/Inspector.png  used on input line 88. on input 
-line 88.
+Package pdftex.def Info: figure/Inspector.png  used on input line 89. on input 
+line 89.
 Package pdftex.def Info: Requested size: 185.65297pt x 116.0338pt on input line
- 88.
+ 89.
  [22 <./figure/Hierarchy.png> <./figure/Inspector.png>]
-<figure/Toolbar.png, id=383, 993.7125pt x 131.49126pt>
+<figure/Toolbar.png, id=407, 993.7125pt x 131.49126pt>
 File: figure/Toolbar.png Graphic file (type png)
 <use figure/Toolbar.png>
-Package pdftex.def Info: figure/Toolbar.png  used on input line 102. on input l
-ine 102.
+Package pdftex.def Info: figure/Toolbar.png  used on input line 103. on input l
+ine 103.
 Package pdftex.def Info: Requested size: 226.91199pt x 30.02565pt on input line
- 102.
-<figure/GameView.png, id=384, 488.82625pt x 343.2825pt>
+ 103.
+<figure/GameView.png, id=408, 488.82625pt x 343.2825pt>
 File: figure/GameView.png Graphic file (type png)
 <use figure/GameView.png>
-Package pdftex.def Info: figure/GameView.png  used on input line 113. on input 
-line 113.
+Package pdftex.def Info: figure/GameView.png  used on input line 114. on input 
+line 114.
 Package pdftex.def Info: Requested size: 226.91199pt x 159.35233pt on input lin
-e 113.
+e 114.
  [23 <./figure/Toolbar.png> <./figure/GameView.png>] [24] [25]
-Underfull \hbox (badness 10000) in paragraph at lines 179--182
+Underfull \hbox (badness 10000) in paragraph at lines 180--183
 
  []
 
-[26] [27]
-<figure/FunctionsScheme.png, id=420, 338.4645pt x 611.28375pt>
+[26]
+<figure/FunctionsScheme.png, id=436, 338.4645pt x 611.28375pt>
 File: figure/FunctionsScheme.png Graphic file (type png)
 <use figure/FunctionsScheme.png>
 Package pdftex.def Info: figure/FunctionsScheme.png  used on input line 255. on
  input line 255.
 Package pdftex.def Info: Requested size: 226.91199pt x 409.81915pt on input lin
 e 255.
-
+ [27] [28 <./figure/FunctionsScheme.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 263--264
 
  []
 
-[28 <./figure/FunctionsScheme.png>]) [29] (capitolo4.tex
+) [29] (capitolo4.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
@@ -1306,54 +1345,214 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 [30
 
 ] [31]) [32] (capitolo5.tex
+<figure/RoomWire.png, id=481, 751.00575pt x 397.485pt>
+File: figure/RoomWire.png Graphic file (type png)
+<use figure/RoomWire.png>
+Package pdftex.def Info: figure/RoomWire.png  used on input line 10. on input l
+ine 10.
+Package pdftex.def Info: Requested size: 268.1647pt x 141.92998pt on input line
+ 10.
+ [33
+
+]
+<figure/Overdraw.png, id=486, 753.41475pt x 397.485pt>
+File: figure/Overdraw.png Graphic file (type png)
+<use figure/Overdraw.png>
+Package pdftex.def Info: figure/Overdraw.png  used on input line 17. on input l
+ine 17.
+Package pdftex.def Info: Requested size: 268.1647pt x 141.4751pt on input line 
+17.
+ [34 <./figure/RoomWire.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--33
+
+ []
+
+[35 <./figure/Overdraw.png>]
+<figure/Lighted.png, id=499, 919.63576pt x 398.6895pt>
+File: figure/Lighted.png Graphic file (type png)
+<use figure/Lighted.png>
+Package pdftex.def Info: figure/Lighted.png  used on input line 35. on input li
+ne 35.
+Package pdftex.def Info: Requested size: 350.68274pt x 152.02676pt on input lin
+e 35.
+<figure/Lightmap1.png, id=500, 184.2885pt x 79.497pt>
+File: figure/Lightmap1.png Graphic file (type png)
+<use figure/Lightmap1.png>
+Package pdftex.def Info: figure/Lightmap1.png  used on input line 43. on input 
+line 43.
+Package pdftex.def Info: Requested size: 202.15909pt x 87.208pt on input line 4
+3.
+<figure/Lightmap2.png, id=501, 183.084pt x 78.2925pt>
+File: figure/Lightmap2.png Graphic file (type png)
+<use figure/Lightmap2.png>
+Package pdftex.def Info: figure/Lightmap2.png  used on input line 48. on input 
+line 48.
+Package pdftex.def Info: Requested size: 202.15909pt x 86.45172pt on input line
+ 48.
+<figure/Lightmap3.png, id=502, 182.48175pt x 78.89474pt>
+File: figure/Lightmap3.png Graphic file (type png)
+<use figure/Lightmap3.png>
+Package pdftex.def Info: figure/Lightmap3.png  used on input line 52. on input 
+line 52.
+Package pdftex.def Info: Requested size: 202.15909pt x 87.40805pt on input line
+ 52.
+ [36 <./figure/Lighted.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+[37 <./figure/Lightmap1.png> <./figure/Lightmap2.png> <./figure/Lightmap3.png>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+<figure/diegetic.png, id=518, 405.515pt x 338.26375pt>
+File: figure/diegetic.png Graphic file (type png)
+<use figure/diegetic.png>
+Package pdftex.def Info: figure/diegetic.png  used on input line 71. on input l
+ine 71.
+Package pdftex.def Info: Requested size: 185.65297pt x 154.86511pt on input lin
+e 71.
+<figure/UIKeyboard.png, id=519, 782.32275pt x 481.19775pt>
+File: figure/UIKeyboard.png Graphic file (type png)
+<use figure/UIKeyboard.png>
+Package pdftex.def Info: figure/UIKeyboard.png  used on input line 78. on input
+ line 78.
+Package pdftex.def Info: Requested size: 350.68274pt x 215.69994pt on input lin
+e 78.
+
+Underfull \hbox (badness 1237) in paragraph at lines 81--81
+[]\T1/cmr/m/n/10.95 Figura 5.5: Que-sta im-ma-gi-ne ri-trae il pas-so quat-tro 
+del ca-so d'u-so pre-so in
+ []
+
+[38 <./figure/diegetic.png>] [39 <./figure/UIKeyboard.png>]
+<figure/raycast.png, id=531, 199.144pt x 240.9pt>
+File: figure/raycast.png Graphic file (type png)
+<use figure/raycast.png>
+Package pdftex.def Info: figure/raycast.png  used on input line 88. on input li
+ne 88.
+Package pdftex.def Info: Requested size: 103.14124pt x 124.7688pt on input line
+ 88.
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+[40 <./figure/raycast.png>]
+<figure/radial.png, id=541, 181.27725pt x 168.63pt>
+File: figure/radial.png Graphic file (type png)
+<use figure/radial.png>
+Package pdftex.def Info: figure/radial.png  used on input line 139. on input li
+ne 139.
+Package pdftex.def Info: Requested size: 82.51173pt x 76.75507pt on input line 
+139.
+ [41]
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+<figure/Photon.png, id=550, 359.84438pt x 232.61906pt>
+File: figure/Photon.png Graphic file (type png)
+<use figure/Photon.png>
+Package pdftex.def Info: figure/Photon.png  used on input line 153. on input li
+ne 153.
+Package pdftex.def Info: Requested size: 206.28249pt x 133.35382pt on input lin
+e 153.
+[42 <./figure/radial.png> <./figure/Photon.png>]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 161.
+
+Overfull \hbox (18.30646pt too wide) in paragraph at lines 173--173
+[] []  \T1/cmr/m/n/10.95 Pho-ton-Net-work.JoinOrCreateRoom(m_roomName,roomOpt,T
+ypedLobby.Default); 
+ []
+
+
+Overfull \hbox (13.41264pt too wide) in paragraph at lines 178--178
+[] []  \T1/cmr/m/n/10.95 Pho-ton-Net-work.Instantiate("NetworkedPlayer",Vector3
+.zero,Quaternion.identit,0); 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--189
+
+ []
+
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 195--197
+
+ []
+
+[44]
+Underfull \hbox (badness 2189) in paragraph at lines 231--232
+[] []  \T1/cmr/m/n/10.95 Spri-te spri-te = Spri-te.Create(tex,new Rect(0.0f,0.0
+f,tex.width,tex.height),new
+ []
+
+[45]) [46] (conclusioni.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
-[33
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
-
- []
-
-[34]) [35] (conclusioni.tex) [36
+) [47
 
 
 ] (main.bbl
 bibitemlist
-[37
+[48
 
-]) [38]
+]) [49]
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 50.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 50.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 49.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 49.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 50.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 50.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 49.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 49.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4732D20BF1E7658442AFC120D331EA0D;1840.
+(rerunfilecheck)             Checksum: 0F53514CEFAF33C08B44FBB3E2F941C1;1974.
  ) 
 Here is how much of TeX's memory you used:
- 11285 strings out of 493312
- 155856 string characters out of 3136301
- 288224 words of memory out of 3000000
- 14495 multiletter control sequences out of 15000+200000
+ 11429 strings out of 493312
+ 158109 string characters out of 3136301
+ 288320 words of memory out of 3000000
+ 14559 multiletter control sequences out of 15000+200000
  17305 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,10n,45p,1596b,488s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 35i,11n,45p,1890b,575s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Lorenzo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
 0\ecrm0900.pk> <C:\Users\Lorenzo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknap
-pen\ec\dpi600\ecti1095.pk> <C:\Users\Lorenzo\AppData\Local\MiKTeX\2.9\fonts\pk\
-ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\Lorenzo\AppData\Local\MiKTeX\2
-.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2074.pk> <C:\Users\Lorenzo\AppData\Lo
+pen\ec\dpi600\ecbx1440.pk> <C:\Users\Lorenzo\AppData\Local\MiKTeX\2.9\fonts\pk\
+ljfour\jknappen\ec\dpi600\ecbx2074.pk> <C:\Users\Lorenzo\AppData\Local\MiKTeX\2
+.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk> <C:\Users\Lorenzo\AppData\Lo
 cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk> <C:\Users\Lorenz
 o\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk> <C:\
 Users\Lorenzo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1
@@ -1364,9 +1563,9 @@ s\pk\ljfour\jknappen\ec\dpi600\ecrm2488.pk> <C:\Users\Lorenzo\AppData\Local\MiK
 TeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk> <C:\Users\Lorenzo\AppDa
 ta\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk><E:/Program 
 Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (44 pages, 7547885 bytes).
+Output written on main.pdf (56 pages, 10719631 bytes).
 PDF statistics:
- 991 PDF objects out of 1000 (max. 8388607)
- 152 named destinations out of 1000 (max. 500000)
- 342 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1160 PDF objects out of 1200 (max. 8388607)
+ 220 named destinations out of 1000 (max. 500000)
+ 418 words of extra memory for PDF output out of 10000 (max. 10000000)
 

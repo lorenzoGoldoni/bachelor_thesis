@@ -4,12 +4,15 @@
 MDHR Corp.
 \newblock Cuphead.
 
-\bibitem[DBML07]{POL}
-Carey~Newson David~Banister and University of~Oxford Matthew~Ledbury, Transport
-  Studies~Unit.
+\bibitem[DB07]{POL}
+Carey~Newson David~Banister.
 \newblock The cost of transport on the environment - the role of teleworking in
   reducing carbon emission.
 \newblock 2007.
+
+\bibitem[Gam]{Photon}
+Exit Games.
+\newblock {\em Photon Unity Networking}.
 
 \bibitem[Jon92]{DVR}
 Steuer Jonathan.
@@ -24,6 +27,14 @@ Kevin Joyce.
 Steve~M. LaValle.
 \newblock Virtual reality.
 \newblock In {\em Virtual Reality}, 2017.
+
+\bibitem[Ltd]{VRTK}
+Sysdia~Solutions Ltd.
+\newblock {\em Virtual Reality Toolkit}.
+
+\bibitem[OV]{OculusDoc}
+LLC Oculus~VR.
+\newblock {\em Oculus Documentation}.
 
 \bibitem[Pen]{ThesisUnity}
 Aleksei Penzentcev.
@@ -41,10 +52,7 @@ Rilla Khaled Lennart~Nacke Sebastian~Deterding, Dan~Dixon.
 \newblock 2017.
 
 \bibitem[SJW]{MFP}
-Ahna R. Girshick Martin S. Banks School of Psychology University of Wales
-  Bangor LL57 2AS United Kingdom; Microsoft Research: Asia Beijing Sigma Center
-  No. 49 Zhichun Road Beijing China 100080; School of Optometry 360 Minor Hall
-  University of California Berkeley CA USA~94720 Simon J.~Watt, Kurt~Akeley.
+Ahna R.~Girshick Simon J.~Watt, Kurt~Akeley.
 \newblock Achieving near-correct focus cues in a 3-d display using multiple
   image planes.
 
