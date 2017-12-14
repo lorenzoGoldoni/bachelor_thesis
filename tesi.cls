@@ -87,14 +87,14 @@
       \vspace{7mm}
 %
 % scommenta questo blocco...
-    {\large Relatore \\ \textbf{\@relatore}} \\
+  %  {\large Relatore \\ \textbf{\@relatore}} \\
 %
 % ... oppure scommenta questo blocco
-%
-   %   \begin{tabular}{c  @{\hspace{2.5cm}} c}
-     %   Relatore & Correlatore \\
-       % \textbf{\@relatore} & \textbf{\@correlatore} \\
-  %    \end{tabular} \\
+
+     \begin{tabular}{c  @{\hspace{2.5cm}} c}
+       Relatore & Correlatore \\
+       \textbf{\@relatore} & \textbf{\@correlatore} \\
+     \end{tabular} \\
 
      \vfill
 {\large Anno Accademico \@annoAccademico} \\

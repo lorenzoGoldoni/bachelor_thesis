@@ -46,7 +46,7 @@ Al giorno d'oggi la VR è attiva nei seguenti campi \cite{VRApplications}:
 
 Il primo passo per capire come funziona la realtà virtuale è considerare cosa costituisce un intero sistema VR.
 Al contrario di quanto si possa pensare, non si tratta solamente delle componenti fisiche, come il visore, il computer o i controllers, ma l'organismo utilizzatore è altrettanto fondamentale. Per facilità in questo capitolo verrà considerato un essere umano .\\
-I sensi di una persona infatti sono centrali sia nel funzionamento della realtà virtuale che nel mondo fisico, perché il cervello ne controlla la configurazione mentre riceve le informazioni fornitegli dagli organi sensoriali, formando le basi della cognizione spaziale di un individuo.\\
+il cervello decodifica lo spazio fisico, sia reale che virtuale, mediante la ricezione di input sensoriali. E' in grado di controllare la configurazione di questi ultimi mentre ne riceve le informazioni, permettendo la creazione di coordinate "coscienti" dello spazio circostante l'individuo.\\
 \begin{figure}[H]
 	\centering
 	\begin{minipage}[b]{0.49\textwidth}
@@ -64,7 +64,7 @@ I sensi di una persona infatti sono centrali sia nel funzionamento della realtà
 \newpage
 
 L'hardware di una configurazione in realtà virtuale deve tenere traccia dei movimenti dell'utente per regolare gli stimoli artificiali in modo corretto, dando il desiderato senso di immersione.
-Gli spostamenti della testa sono i più importanti poiché ad essa sono correlati la vista, il nostro senso predominante, e il sistema vestibolare, il quale dalle orecchie fornisce al cervello informazioni sull'equilibrio e sul moto nello spazio circostante.\cite{vestibular} \\
+Un fattore di fondamentale importanza è lo studio degli spostamenti della testa nello spazio, in quanto codificati dal sistema nervoso centrale come un insieme di stimoli visivi, uditivi e vestibolari. \\
 Per aumentare il grado di realismo della simulazione si tende a monitorare i movimenti di braccia o gambe. Infine è in egual modo significativo prendere in considerazione l'ambiente reale circostante come parte integrante del sistema VR perché, nonostante  le stimolazioni controllate, l'utilizzatore  continuerà a percepirlo.
 \begin{figure}[H]
 	\includegraphics[width=0.65\textwidth]{figure/TrackingStimuliBB}
@@ -77,8 +77,8 @@ Per aumentare il grado di realismo della simulazione si tende a monitorare i mov
 Scendendo più nei dettagli i moderni sistemi di VR sono composti da tre componenti hardware principali: display, sensori, computer.
 \begin{flushleft}
 	\underline{\textit{Displays}:}
-\end{flushleft}  Attraverso di essi avviene la stimolazione degli organi sensoriali. Nei sistemi a \textit{CAVE}, un acronimo ricorsivo che sta per "cave automatic virtual enviroment", l'utente è avvolto da immagini 3D proiettate su sei piani di visualizzazione fissi ed immerso in un'audio sorround. Nei sistemi \textit{HMD}, head-mounted display, la configurazione consiste, come da definizione, in un visore montato sulla testa. Nei modelli più semplici viene utilizzato lo schermo di un cellulare e due lenti focali per gli occhi come nel caso dei Google Cardboard. Le apparecchiature più sofisticate utilizzano schermi progettati appositamente per la VR, che sfruttano la tecnologia LED 
-o strumenti di \textit{proiezione pico}, come \textit{DLP(Digital Light Processing), LCD(Liquid Crystal Display)} o \textit{LQoS(Liquid Crystal on Silicon)}.Alcuni prodotti che implementano queste tecnologie sono \textit{ Google Glass}, \textit{Microsoft Hololen}s e \textit{Avegant Glyph}. Prototipi più esotici che sono ancora in fase di sviluppo sono gli schermi a \textit{campi luminosi} \cite{LFD} e a \textit{piani focali multipli} \cite{MFP}, ma sono ancora troppo acerbi per poter competere con le tecnologie citate precedentemente già ampiamente utilizzate nel mercato dei cellulari. 
+\end{flushleft}  Attraverso di essi avviene la stimolazione degli organi sensoriali, in particolare della vista e dell'udito.. Nei sistemi {CAVE}, un acronimo ricorsivo che sta per "cave automatic virtual enviroment", l'utente è avvolto da immagini 3D proiettate su sei piani di visualizzazione fissi ed immerso in un'audio sorround. Nei sistemi \textit{HMD}, head-mounted display, la configurazione consiste, come da definizione, in un visore montato sulla testa. Nei modelli più semplici viene utilizzato lo schermo di un cellulare e due lenti focali per gli occhi come nel caso dei Google Cardboard. Le apparecchiature più sofisticate utilizzano schermi progettati appositamente per la VR, che sfruttano la tecnologia LED 
+o strumenti di \textit{proiezione pico}, come \textit{DLP(Digital Light Processing), LCD(Liquid Crystal Display)} o \textit{LQoS(Liquid Crystal on Silicon)}.Alcuni prodotti che implementano queste tecnologie sono \textit{ Google Glass}, \textit{Microsoft Hololen}s e \textit{Avegant Glyph}. Prototipi in fase di sviluppo sono gli schermi a \textit{campi luminosi} \cite{LFD} e a \textit{piani focali multipli} \cite{MFP}, purtroppo ancora poco competitivi perché non utilizzate nel mercato dei dispositivi mobili. 
 
 \vspace{0.2cm}
 
@@ -103,7 +103,7 @@ o strumenti di \textit{proiezione pico}, come \textit{DLP(Digital Light Processi
 \end{flushleft}  Per generare il corretto output artificiale vanno costantemente monitorati gli organi di senso dell'individuo, in particolare la loro posizione e l'orientamento. Per quest'ultimo si impiega usualmente un'\textit{unità di misura interna} (IMU), formata da un giroscopio le cui misure sono integrate nel tempo dando una stima dell'inclinazione. Il rumore generato da questa misurazione, definito come errore di derivazione, può essere annullato o ridotto con l'impiego di altri strumenti come accelerometri e magnetometri.\\
 A metà del secolo scorso le IMU erano pensabili solamente su velivoli e missili, dati i costi e le dimensioni molto elevate, ma al giorno d'oggi sono incorporate nel gran parte dei dispositivi mobili e sono la nuova tecnologia che ha portato ad una distribuzione su ampia scala della realtà virtuale.\\
 Un'altra tecnologia che è diventata più accessibile sono le \textit{telecamere digitali} grazie alle quali si può adottare un approccio di monitoraggio \textit{visivo}.
-L'idea è di identificare nell'immagine dei markers o elementi fissi, che fungono da sistemi di riferimento per il sistema. Questo processo impone però dei limiti sulla potenziale posizione o orientamento dei visori ed è per questo che sono in sviluppo intelligenze artificiali addette al riconoscimento di immagini che scalzino l'impiego di marker fisici.
+L'idea è di identificare nell'immagine dei \textit{markers} o elementi fissi, che fungono da riferimento per il sistema. Questo processo impone però dei limiti sulla potenziale posizione o orientamento dei visori ed è per questo che sono in via di sviluppo intelligenze artificiali addette al riconoscimento di immagini che scalzino l'impiego di marker fisici.
 
 \vspace{0.2cm}
 
